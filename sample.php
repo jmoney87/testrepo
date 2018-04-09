@@ -2,5 +2,7 @@
 
 echo 'test2';
 
+echo 'development';
+
 
 ?>
